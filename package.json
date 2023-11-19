@@ -1,6 +1,6 @@
 {
   "name": "@biancahpp/to-kebab",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Convert a string to Kebab Case.",
   "main": "index.js",
   "scripts": {
