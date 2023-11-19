@@ -1,0 +1,22 @@
+{
+  "name": "@biancahpp/to-kebab",
+  "version": "1.0.0",
+  "description": "Convert a string to Kebab Case.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/biancahpp/to-kebab.git"
+  },
+  "keywords": [
+    "kebab"
+  ],
+  "author": "Bianca Procopio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/biancahpp/to-kebab/issues"
+  },
+  "homepage": "https://github.com/biancahpp/to-kebab#readme"
+}
